@@ -1,2 +1,1 @@
-# jogo_da_cobrinha
-Desafio bootcamp; Jogo da cobrinha.
+# jogo_da_cobrinha2
